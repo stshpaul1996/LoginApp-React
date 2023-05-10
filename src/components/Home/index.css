@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.bg-page {
+  background-color: #ffffff;
+  padding: 55px;
+}
+.container {
+  background-image: linear-gradient(to top, #2b2c49, #b5b9ff);
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
